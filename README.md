@@ -1,26 +1,10 @@
-### Hi there 👋
+### Hi I'm davidleitw 👋
 
-嗨，大家好，我是davidleitw，是一個熱衷於後端領域的學生。
+一個中央大學的研究生, 喜歡寫程式解決問題的感覺,平常都使用 go 語言為主,偶爾也會寫點 c/c++。 
 
-平常習慣用golang以及python作為主要的開發語言。 
+對網路或分散式系統相關領域都滿有興趣的, 最近在研究 `linux network stack` 還有 `ebpf` 的應用, 感覺有機會來做點酷酷的東西。
 
-歡迎大家多多交流😄 希望可以學習更多有關後端的知識！
+歡迎 [Email](mailto:davidleitw@gmail.com) 來交流, 交個朋友或要討論都XD 
 
 ### Github基本資料
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidleitw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**davidleitw/davidleitw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
