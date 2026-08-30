@@ -4,7 +4,7 @@ I'm David. I mostly write small projects I actually use myself. Since coding age
 
 I learned most of what I know with help from people who had no reason to help me, online and in person. So if you have a question, email me. I'd like to pass some of that on.
 
-Lately, at work and outside it, I've been digging into agent harnesses and the ecosystem around them, including a few I've written that run standalone with no framework underneath. Happy to talk about any of it.
+At work and outside it I've been looking at agent harnesses, the loop that actually drives the agent. I've written a few that run standalone with no framework under them, mostly to find out what's left once you strip the abstractions away.
 
 ### Contributions
 
