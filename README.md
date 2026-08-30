@@ -18,8 +18,11 @@
 看著自己架的 Harness 真的跑起來還會自己修正，可以彌補不用手刻之後的空虛感 (?<br>
 <sub>Watching one you built actually run and fix itself fills the void left by not hand-writing everything anymore (?</sub>
 
-有在玩類似東西的朋友很歡迎一起討論<br>
-<sub>If you're playing with similar things I'd love to talk</sub>
+如果你也在架這種東西，很想聽聽你怎麼做的<br>
+<sub>If you're building one too, I'd really like to hear how you did it</sub>
+
+一起來打造酷酷的 Harness 吧!<br>
+<sub>Let's go build some cool harnesses!</sub>
 
 ### Contributions
 
