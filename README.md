@@ -1,10 +1,10 @@
 ![](./assets/banner.svg)
 
-I'm David. I mostly write small projects I actually use myself. Since coding agents came along I've been spending my whole weekly token budget on increasingly strange tools, which I'm choosing to call research.
+我是 David，平常喜歡寫一些自己生活上用得到的小 project。自從有了 coding agent 以後，熱衷於每週把 token 燒完，探索各種奇怪的工具 (?
 
-I learned most of what I know with help from people who had no reason to help me, online and in person. So if you have a question, email me. I'd like to pass some of that on.
+在學習資訊工程的路上受到了很多貴人的幫助，不管是線上社群的朋友，或者現實生活認識的同好們，希望可以表達感激。所以如果有任何問題，都歡迎來信討論，相信想法的交流可以創造更多幫助人的專案。
 
-At work and outside it I've been looking at agent harnesses, the loop that actually drives the agent. I've written a few that run standalone with no framework under them, mostly to find out what's left once you strip the abstractions away.
+最後，近期工作與私底下都在研究 Harness 與整個生態系，也寫過幾個沒有依靠 framework 獨立運行的 Harness System，都歡迎討論。
 
 ### Contributions
 
