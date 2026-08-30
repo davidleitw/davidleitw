@@ -3,23 +3,23 @@
 我是 David，平常喜歡寫一些自己生活上用得到的小 project。<br>
 <sub>I'm David. I mostly write small projects I actually end up using myself.</sub>
 
-自從有了 coding agent 以後，熱衷於每週把 token 燒完，探索各種奇怪的工具 (?<br>
-<sub>Ever since coding agents showed up, I've been happily burning my entire weekly token budget poking at strange tools (?</sub>
+有了 coding agent 之後就很熱衷每週把 token 燒完，探索各種奇怪的工具 (?<br>
+<sub>Since coding agents came along I've been happily burning my whole weekly token budget on strange tools (?</sub>
 
-在學習資訊工程的路上受到了很多貴人的幫助，不管是線上社群的朋友，或者現實生活認識的同好們，希望可以表達感激。<br>
-<sub>A lot of people helped me while I was learning CS — friends from online communities, and people I met offline who were into the same things. I'd like to properly say thanks.</sub>
+一路學下來受過很多人幫忙，線上線下都有，真的很感謝。<br>
+<sub>I got a lot of help along the way, online and off. Really grateful for that.</sub>
 
-所以如果有任何問題，都歡迎來信討論，相信想法的交流可以創造更多幫助人的專案。<br>
-<sub>So if you have a question, just email me. I do believe trading ideas leads to more projects that help people.</sub>
+所以有任何問題都歡迎來信，想法交流常常能長出更多幫得上忙的專案。<br>
+<sub>So email me if you have questions. Trading ideas tends to grow into projects that actually help people.</sub>
 
 最近研究的主題大多環繞在 Harness，公開的跟工作上內部的都做過一些。<br>
-<sub>Most of what I'm looking into these days revolves around harnesses — some public, some internal at work.</sub>
+<sub>Most of what I'm into these days is harnesses. I've built some publicly and some internally at work.</sub>
 
-看著自己架的 Harness 真的動起來、而且會不斷修正，是一件非常有趣的事。<br>
-<sub>Watching a harness you built actually come alive and keep correcting itself is a genuinely fun thing.</sub>
+看著自己架的 Harness 真的跑起來還會自己修正，是很有趣的事。<br>
+<sub>Watching one you built actually run and correct itself is a lot of fun.</sub>
 
-有在玩類似東西的朋友，很歡迎一起討論。<br>
-<sub>If you're playing with similar stuff, I'd love to talk.</sub>
+有在玩類似東西的朋友很歡迎一起討論。<br>
+<sub>If you're playing with similar things I'd love to talk.</sub>
 
 ### Contributions
 
