@@ -28,7 +28,7 @@
 
 ![](./profile-3d-contrib/profile-david.svg)
 
-<sub>3,394 contributions in the last year · regenerated weekly</sub>
+<sub>regenerated weekly · 每週自動更新</sub>
 
 ### Contact
 
