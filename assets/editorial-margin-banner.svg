@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">davidleitw</title><desc id="desc">Editorial profile banner</desc>
+  <style>
+    .bg{fill:#fff}.fg{fill:#1f2328}.muted{fill:#8b949e}.line{stroke:#d0d7de}.accent{fill:#40c463}.accent-line{stroke:#40c463}
+    .word{font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-weight:700;letter-spacing:-4px}.meta{font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:22px;letter-spacing:.2px}
+    @media (prefers-color-scheme:dark){.bg{fill:#0d1117}.fg{fill:#e6edf3}.muted{fill:#6e7681}.line{stroke:#30363d}.accent{fill:#39d353}.accent-line{stroke:#39d353}}
+  </style>
+  <rect class="bg" width="1280" height="320"/>
+  <path class="line" stroke-width="1" d="M72 54H1208M72 266H1208"/>
+  <rect class="accent" x="72" y="54" width="12" height="212"/>
+  <text class="word fg" x="122" y="175" font-size="108">davidleitw</text>
+  <text class="meta muted" x="126" y="225">Backend @ Synology · Go · C · AI agent tooling</text>
+  <g transform="translate(1018 78)">
+    <path class="accent-line" fill="none" stroke-width="5" d="M18 122V18h104"/>
+    <path class="line" fill="none" stroke-width="1" d="M0 160H166M0 136H166M0 112H166M0 88H166M0 64H166M0 40H166M24 0V160M48 0V160M72 0V160M96 0V160M120 0V160M144 0V160"/>
+    <rect class="accent" x="72" y="64" width="24" height="24"/><rect class="accent" x="120" y="40" width="24" height="24"/>
+    <rect class="accent" x="48" y="112" width="24" height="24" opacity=".68"/><rect class="accent" x="96" y="112" width="24" height="24" opacity=".45"/>
+  </g>
+</svg>

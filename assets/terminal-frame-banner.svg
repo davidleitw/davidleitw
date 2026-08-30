@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">davidleitw</title><desc id="desc">Terminal inspired profile banner</desc>
+  <style>
+    .bg{fill:#fff}.fg{fill:#1f2328}.muted{fill:#8b949e}.border{stroke:#d0d7de}.accent{fill:#40c463}.accent-stroke{stroke:#40c463}.terminal{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+    @media (prefers-color-scheme:dark){.bg{fill:#0d1117}.fg{fill:#e6edf3}.muted{fill:#6e7681}.border{stroke:#30363d}.accent{fill:#39d353}.accent-stroke{stroke:#39d353}}
+  </style>
+  <rect class="bg" width="1280" height="320"/>
+  <rect x="64" y="48" width="1152" height="224" rx="10" fill="none" class="border" stroke-width="2"/>
+  <path class="border" stroke-width="2" d="M64 94H1216"/>
+  <circle class="accent" cx="94" cy="71" r="7"/><circle class="border" fill="none" cx="118" cy="71" r="7"/><circle class="border" fill="none" cx="142" cy="71" r="7"/>
+  <path class="accent-stroke" fill="none" stroke-width="4" d="M112 137l20 20-20 20M150 177h34"/>
+  <text class="terminal fg" x="202" y="178" font-size="66" font-weight="700" letter-spacing="-3">davidleitw</text>
+  <rect class="accent" x="202" y="201" width="120" height="5"/>
+  <text class="terminal muted" x="204" y="238" font-size="20">Backend @ Synology · Go · C · AI agent tooling</text>
+  <g transform="translate(1024 126)" class="accent-stroke" fill="none" stroke-width="3">
+    <path d="M0 30h30V0h30v30h30V0h30v30h30"/><path d="M0 70h30V40h30v30h30V40h30v30h30"/>
+    <path d="M0 110h30V80h30v30h30V80h30v30h30"/>
+  </g>
+</svg>
