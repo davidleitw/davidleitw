@@ -1,27 +1,25 @@
 ![](./assets/banner.svg)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+我是 David，平常喜歡寫一些自己生活上用得到的小 project。<br>
+<sub>I'm David. I mostly write small projects I actually end up using myself.</sub>
 
-<p>我是 David，平常喜歡寫一些自己生活上用得到的小 project。自從有了 coding agent 以後，熱衷於每週把 token 燒完，探索各種奇怪的工具 (?</p>
+自從有了 coding agent 以後，熱衷於每週把 token 燒完，探索各種奇怪的工具 (?<br>
+<sub>Ever since coding agents showed up, I've been happily burning my entire weekly token budget poking at strange tools (?</sub>
 
-<p>在學習資訊工程的路上受到了很多貴人的幫助，不管是線上社群的朋友，或者現實生活認識的同好們，希望可以表達感激。所以如果有任何問題，都歡迎來信討論，相信想法的交流可以創造更多幫助人的專案。</p>
+在學習資訊工程的路上受到了很多貴人的幫助，不管是線上社群的朋友，或者現實生活認識的同好們，希望可以表達感激。<br>
+<sub>A lot of people helped me while I was learning CS — friends from online communities, and people I met offline who were into the same things. I'd like to properly say thanks.</sub>
 
-<p>最近研究的主題大多環繞在 Harness，公開的跟工作上內部的都做過一些，也還在看整個生態系怎麼發展，都歡迎討論。</p>
+所以如果有任何問題，都歡迎來信討論，相信想法的交流可以創造更多幫助人的專案。<br>
+<sub>So if you have a question, just email me. I do believe trading ideas leads to more projects that help people.</sub>
 
-</td>
-<td width="50%" valign="top">
+最近研究的主題大多環繞在 Harness，公開的跟工作上內部的都做過一些。<br>
+<sub>Most of what I'm looking into these days revolves around harnesses — some public, some internal at work.</sub>
 
-<p>I'm David. I mostly write small projects I actually end up using myself. Ever since coding agents showed up, I've been happily burning my entire weekly token budget poking at strange tools (?</p>
+看著自己架的 Harness 真的動起來、而且會不斷修正，是一件非常有趣的事。<br>
+<sub>Watching a harness you built actually come alive and keep correcting itself is a genuinely fun thing.</sub>
 
-<p>A lot of people helped me while I was learning CS — friends from online communities, and people I met offline who were into the same things. I'd like to properly say thanks. So if you have a question, just email me. I do believe trading ideas leads to more projects that help people.</p>
-
-<p>Most of what I'm looking into these days revolves around harnesses. I've built some publicly and some internally at work, and I'm still watching how the whole ecosystem shakes out. Always happy to talk.</p>
-
-</td>
-</tr>
-</table>
+有在玩類似東西的朋友，很歡迎一起討論。<br>
+<sub>If you're playing with similar stuff, I'd love to talk.</sub>
 
 ### Contributions
 
