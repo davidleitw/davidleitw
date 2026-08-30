@@ -1,4 +1,7 @@
-### Hi I'm davidleitw 👋
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-### Github基本資料
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidleitw&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+**Backend @ Synology** · Go / C
+
+最近都在寫給 AI agent 用的工具。
+
+[davidleitw.github.io](https://davidleitw.github.io/) · [davidleitw@gmail.com](mailto:davidleitw@gmail.com)
