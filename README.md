@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-david.svg)
 
 **Backend @ Synology** · Go / C
 
